@@ -1,0 +1,24 @@
+15:30:18.939 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+15:30:18.971 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+15:30:27.528 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+15:30:27.528 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+15:30:53.702 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+15:30:53.704 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+19:03:34.330 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\testng2.xml
+
+19:03:51.580 [TestNG-tests-1] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+19:03:52.814 [TestNG-tests-1] INFO  testCases.Tc_002_loginTest -Starting logging process
+19:05:44.242 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\testng2.xml
+
+19:05:56.023 [TestNG-tests-1] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+19:12:22.687 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\testng2.xml
+
+19:12:34.369 [TestNG-tests-1] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+19:12:34.369 [TestNG-tests-1] INFO  testCases.Tc_002_loginTest -Starting logging process
+19:13:35.996 [TestNG-tests-1] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+19:13:36.002 [TestNG-tests-1] INFO  testCases.Tc_002_loginTest -Starting logging process
+20:00:49.173 [TestNG-tests-1] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+20:00:49.181 [TestNG-tests-1] INFO  testCases.Tc_002_loginTest -Starting logging process

@@ -1,0 +1,69 @@
+11:58:17.542 [main] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+11:58:41.488 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+11:58:41.489 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+11:58:51.848 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+11:58:51.848 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+11:59:13.156 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+11:59:13.157 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:08:36.259 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\grouping.xml
+
+12:08:45.646 [main] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+12:09:08.030 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:09:08.030 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:09:18.036 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:09:18.036 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:09:40.911 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:09:40.911 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:12:55.734 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\grouping.xml
+
+12:13:05.460 [main] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+12:13:28.325 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:13:28.325 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:13:34.419 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:13:34.419 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:13:55.492 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:13:55.492 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:17:59.857 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\grouping.xml
+
+12:18:11.906 [main] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+12:18:34.729 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:18:34.730 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:18:42.424 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:18:42.424 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:19:03.722 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:19:03.722 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:37:56.585 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\grouping.xml
+
+12:38:09.153 [main] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+12:38:32.931 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:38:32.931 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:38:40.746 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:38:40.746 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:39:04.494 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:39:04.495 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:46:13.255 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\grouping.xml
+
+12:46:25.298 [main] INFO  testCases.Tc_002_loginTest -Starting Tc_002_logintest
+12:47:37.252 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:47:37.252 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:47:47.392 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:47:47.393 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+12:48:08.467 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+12:48:08.467 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+14:44:22.359 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+14:44:22.363 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+14:44:28.516 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+14:44:28.516 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+14:44:49.484 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+14:44:49.485 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+14:47:14.711 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+14:47:14.717 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+14:47:21.742 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+14:47:21.742 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process
+14:47:43.032 [main] INFO  testCases.TC_003_LoginDDT -Starting_TC_003_loginddttest
+14:47:43.032 [main] INFO  testCases.TC_003_LoginDDT -Starting logging process

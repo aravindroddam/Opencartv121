@@ -1,0 +1,62 @@
+13:42:54.794 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\testng.xml
+
+13:44:19.256 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\testng.xml
+
+13:45:45.809 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\testng.xml
+
+13:50:50.389 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\testng.xml
+
+13:51:02.517 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest -clicked on my account link
+13:51:05.016 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest -providing user details
+13:51:05.555 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest -clicked on my account link
+13:51:07.319 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest -providing user details
+13:51:25.326 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest -Test case sucessfully executed
+14:07:56.120 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\master.xml
+
+14:08:46.084 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\master.xml
+
+14:11:00.517 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\master.xml
+
+14:13:18.744 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\master.xml
+
+14:36:42.260 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Opencartv121\master.xml
+
+14:45:21.192 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.201 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+14:45:21.204 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.205 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.206 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.206 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.208 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.208 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.221 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+14:45:21.235 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+14:45:21.238 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.239 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.240 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.240 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.242 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.242 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.245 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.245 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.246 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.246 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.250 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.250 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.250 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.250 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.252 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.253 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.255 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.255 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:45:21.255 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+14:45:21.255 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
